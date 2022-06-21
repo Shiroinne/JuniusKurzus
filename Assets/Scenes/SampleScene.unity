@@ -219,10 +219,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d1735baea77a6649b99c656b4c80803, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  intVar: 11
-  floatVar: 5.75
+  intVar: 76
+  floatVar: 10.18
   stringVar: rfgzsdxfcguv
   boolVar: 1
+  summa: 86.18
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
