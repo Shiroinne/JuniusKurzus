@@ -7,7 +7,7 @@ class Circle : MonoBehaviour
     [SerializeField] float circumferance; // Kerulet
     [SerializeField] float area;          // Terulet
 
-    float pi = 3.14f;
+    // float pi = 3.14f;
 
     void OnValidate()
     {
